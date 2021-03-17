@@ -1,7 +1,7 @@
 <launch>
 
   <!-- start hdt arm -->
-  <include file="$(find control)/launch/hdt_arm_bringup.launch">
+  <!-- <include file="$(find control)/launch/hdt_arm_bringup.launch"> -->
    </include>
   
   <!-- start image processing -->
