@@ -3,6 +3,8 @@ HDT Adroit 6DOF A24 Pincer Manipulation of a fire extingushier using thermal cam
 
 written by Dong Ho Kang (DK)
 
+[![](http://img.youtube.com/vi/1XVxniZMIpI/0.jpg)](http://www.youtube.com/watch?v=1XVxniZMIpI "")
+
 You can find more background of this probject from:
 (portfolio link)
 
