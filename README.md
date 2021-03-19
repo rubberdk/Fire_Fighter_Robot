@@ -19,11 +19,18 @@ Manipulating a robot arm to detect a fire and use a fire extinguisher can be ben
 - HDT Adroit 6DOF A24 Pincer
     ![fire_extinguisher](https://github.com/rubberdk/Firefighting_Robot_Arm/blob/master/images/adroit.jpg?raw=true)
 
+
+
 - Fixed-hose fire extinguisher
+
     ![fire_extinguisher](https://github.com/rubberdk/Firefighting_Robot_Arm/blob/master/images/fe.jpg?raw=true)
+
+
 
 - FLIR Lepton 2.5 - Thermal Imaging Module
     ![thermal_camera](https://github.com/rubberdk/Firefighting_Robot_Arm/blob/master/images/lepton2.5.jpg?raw=true)
+
+
 
 - PureThermal 2 - FLIR Lepton Smart I/O Board
     ![purethermal](https://github.com/rubberdk/Firefighting_Robot_Arm/blob/master/images/purethermal2.jpg?raw=true)
