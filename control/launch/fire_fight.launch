@@ -2,14 +2,14 @@
 
   <!-- start hdt arm -->
   <!-- <include file="$(find control)/launch/hdt_arm_bringup.launch"> -->
-   </include>
+   <!-- </include> -->
   
   <!-- start image processing -->
   <include file="$(find thermal_image_processing)/launch/fire_detect.launch">
     </include>
 
   <!-- start arm control -->
-   <!-- <node name="arm_control" pkg="control" type="arm_control" /> -->
+   <node name="arm_control" pkg="control" type="arm_control" />
 
 
 </launch>
